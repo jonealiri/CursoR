@@ -1,4 +1,4 @@
-ID Sexo Edad Est Exp Caso Sexo_caso AP Cred Inc Ayu AP2 Cred2 Total
+﻿ID	Género	Edad	Estudios_realizados	Años_experiencia	Caso_clínico	sexo_protagonista_caso	APsi	Credibilidad	Incapacidad	Ayuda	APsi2	Credibilidad2	LegitimTotal
 206572604	1	28	1	0	1	2	22	10	4	4	28	4	40
 207793322	1	32	1	5	1	2	20	23	20	18	19	24	81
 208606741	1	21	1	0	1	2	18	21	18	20	21	18	77
